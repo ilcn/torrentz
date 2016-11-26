@@ -83,4 +83,4 @@ def search(term):
 
 
 if __name__ == "__main__":
-    search("ipz")
+    search("star")
