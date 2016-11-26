@@ -4,14 +4,6 @@ import time
 from urllib.parse import urljoin, urlencode
 
 
-class ClassName(object):
-    """docstring for ClassName"""
-
-    def __init__(self, arg):
-        super(ClassName, self).__init__()
-        self.arg = arg
-
-
 class Result:
     """docstring for Result"""
 
